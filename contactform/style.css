@@ -1,0 +1,23 @@
+
+h1{
+    background-color: whitesmoke;
+    border-left: 3px solid red;
+    padding-left: 20px;
+}
+
+form{
+    margin:20px;
+    border:3px solid #ebebeb;
+    border-radius:7px;
+    background-color: whitesmoke;
+    width: 500px;
+}
+form div{
+    margin:5px 15px 20px 10px;
+}
+.submit{
+    color:white;
+    background-color: lightgray;
+    border-radius: 5px;
+    text-shadow: 1px 1px 0 gray;
+}
